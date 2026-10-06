@@ -38,4 +38,4 @@ A **TypeScript/Bun CLI** that reconciles OpenCode's cached model catalog with mo
 
 I start with the problem, define how the system should behave and test its boundaries. Away from the screen: judo, mountain trekking and bivouacs.
 
-**Open to software engineering opportunities.** [Get in touch](mailto:michele.parenti.l@gmail.com).
+**Open to talk any day.** [Get in touch](mailto:michele.parenti.l@gmail.com).
